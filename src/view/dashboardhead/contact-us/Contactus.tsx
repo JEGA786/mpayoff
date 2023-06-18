@@ -102,7 +102,7 @@ First Floor, Plot No-H-85 A, TNHB Colony, Sialiyaneri, Anaiyur, Madurai-625017. 
 
 <div
           className="mapdiv  "
-          data-aos="fade-left"
+          data-aos="fade-right"
           data-aos-duration="2000"
           data-aos-once="false"
         >
