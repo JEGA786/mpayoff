@@ -40,6 +40,7 @@ export function Dashboard() {
               classname={"carousel-item active"}
               interval={"10000"}
               img={require("../../asset/sample1/scroll1.png")}
+              h1={'𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗮𝗻𝗱 𝗰𝗼𝗻𝘃𝗲𝗿𝘁 𝘆𝗼𝘂𝗿 𝗗𝘂𝗸𝗮𝗮𝗻 𝗶𝗻𝘁𝗼 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗗𝘂𝗸𝗮𝗮𝗻'}
             />
             <Carousel
               classname={"carousel-item active"}
